@@ -1,0 +1,11 @@
+file_names,y_true,y_pred,y_scores_good,y_scores_bad
+4_bad,bad,bad,0.087658465,0.91234154
+0_good,good,good,0.50284976,0.49715027
+1_good,good,bad,0.020557724,0.9794423
+3_bad,bad,bad,0.03506793,0.9649321
+3_good,good,good,0.8742279,0.12577216
+2_good,good,good,0.8141636,0.18583634
+2_bad,bad,bad,0.011056888,0.9889431
+0_bad,bad,bad,0.017220441,0.9827795
+4_good,good,good,0.95615673,0.043843206
+1_bad,bad,bad,0.029031456,0.97096854

@@ -1,0 +1,1 @@
+python classify.py image.jpg
